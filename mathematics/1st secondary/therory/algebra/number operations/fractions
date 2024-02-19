@@ -1,0 +1,31 @@
+\newpage
+\section{Algèbre}
+
+\subsection{Opérations sur les nombres I} 
+
+\subsubsection{Les fractions} 
+ \textbf{Définition} \newline\newline
+ 
+Pour \( b \neq 0 \), \(\frac{a}{b}\) désigne le quotient de \(a\) par \(b\). Si \(a\) et \(b\) sont des entiers, alors \(\frac{a}{b}\) est une fraction.\newline\newline
+
+ \textbf{Comparaison de fractions}$ \newline\newline
+ - $Si deux nombres en écriture fractionnaire ont le même dénominateur, alors le plus petit est celui qui a le plus petit numérateur : \newline
+ 
+ {\small Exemple : $\frac{2}{5}$ \textless\ $\frac{4}{5}$.\newline \newline\newline
+-  Si deux nombres en écriture fractionnaire sont des dénominateurs multiples l'un de l'autre, alors on les réduit au même dénominateur pour les comparer :   \newline
+ 
+ {\small Exemple : $\frac{2}{5}$ et $\frac{4}{2}$ ce qui revient à $\frac{4}{10}$ et $\frac{20}{10}$. Ainsi \boxed{\frac{4}{10}\textless\ \frac{20}{10}} .   \newline \newline\newline
+ - Si deux nombres en écriture fractionnaire ont le même numérateur, alors le plus petit est celui qui a le plus grand dénominateur :   \newline
+ 
+ {\small Exemple : $\frac{6}{11}$ \textless $\frac{6}{8}$.\newline \newline
+
+  \textbf{Opérations sur les fractions} \newline\newline
+   - Pour calculer la somme/soustraction de deux nombres en écriture fractionnaire de même dénominateur, on additionne/soustrait les numérateurs et on garde le même dénominateur : \newline
+ 
+ {\small Exemple : $\frac{2}{5}$ + $\frac{4}{5}$ = \boxed{\frac{6}{5}}  ou $\frac{2}{5}$ - $\frac{4}{5}$ = \boxed{-\frac{2}{5}} \newline \newline\newline\newline
+    - Pour calculer la somme/soustraction de deux nombres en écriture fractionnaire de dénominateur, différent, on les réduit au même dénominateur, on additionne/soustrait les numérateurs et on garde le même dénominateur : \newline
+ 
+ {\small Exemple : $\frac{2}{3}$ + $\frac{4}{5}$ = $\frac{10}{15}$ + $\frac{12}{15}$ = \boxed{\frac{22}{15}}  ou $\frac{2}{3}$ - $\frac{4}{5}$ = $\frac{10}{15}$ - $\frac{12}{15}$ = \boxed{-\frac{2}{15}}   \newline \newline\newline\newline
+   - Pour calculer le produit de deux nombres en écriture fractionnaire, on multiplie les numérateurs ainsi que les dénominateurs : \newline
+ 
+ {\small Exemple : $\frac{2}{3}$ . $\frac{4}{5}$ = $\frac{2.4}{3.5}$ = \boxed{\frac{8}{15}}    \newline \newline
